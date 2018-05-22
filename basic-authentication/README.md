@@ -1,0 +1,1 @@
+http://www.baeldung.com/how-to-use-resttemplate-with-basic-authentication-in-spring

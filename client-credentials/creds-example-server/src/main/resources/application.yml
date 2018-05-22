@@ -1,0 +1,7 @@
+security:
+  oauth2:
+    client:
+      clientId: 0oaf4fhrqjvAIGBwC0h7
+      clientSecret: 8EEE26OPE46grgKQcaFmkpqFTv2d3QvpScQ5pXjM
+    resource:
+      tokenInfoUri: https://dev-158606.oktapreview.com/oauth2/default/v1/introspect

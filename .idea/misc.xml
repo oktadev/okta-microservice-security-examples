@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/client-credentials/creds-example-server/pom.xml" />
+        <option value="$PROJECT_DIR$/client-credentials/creds-example-client/pom.xml" />
+        <option value="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/pom.xml" />
+        <option value="$PROJECT_DIR$/access-token-propogation/eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/access-token-propogation/edge-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PreferredVcsStorage">
+    <preferredVcsName>ApexVCS</preferredVcsName>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

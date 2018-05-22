@@ -1,0 +1,16 @@
+<mat-toolbar color="primary">
+  <span>Welcome to {{title}}!</span>
+</mat-toolbar>
+
+<!-- Container to inject the Sign-In Widget -->
+<div id="okta-signin-container"></div>
+
+<div *ngIf="user">
+  <h2>
+    Welcome {{user?.name}}!
+  </h2>
+
+  <button mat-raised-button (click)="logout()">Logout</button>
+
+  <app-beer-list></app-beer-list>
+</div>

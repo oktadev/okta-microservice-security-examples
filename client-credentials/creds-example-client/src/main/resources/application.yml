@@ -1,0 +1,9 @@
+example:
+  baseUrl: http://localhost:8080
+  oauth2:
+    client:
+      grantType: client_credentials
+      clientId: 0oaf4fhrqjvAIGBwC0h7
+      clientSecret: 8EEE26OPE46grgKQcaFmkpqFTv2d3QvpScQ5pXjM
+      accessTokenUri: https://dev-158606.oktapreview.com/oauth2/default/v1/token
+      scope: custom_mod
