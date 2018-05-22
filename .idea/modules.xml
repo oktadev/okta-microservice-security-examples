@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/access-token-propagation/beer-catalog-service/beer-catalog-service.iml" filepath="$PROJECT_DIR$/access-token-propagation/beer-catalog-service/beer-catalog-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/access-token-propogation/beer-catalog-service/beer-catalog-service.iml" filepath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/beer-catalog-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/client-credentials/creds-example-client/creds-example-client.iml" filepath="$PROJECT_DIR$/client-credentials/creds-example-client/creds-example-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/client-credentials/creds-example-server/creds-example-server.iml" filepath="$PROJECT_DIR$/client-credentials/creds-example-server/creds-example-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access-token-propagation/edge-service/edge-service.iml" filepath="$PROJECT_DIR$/access-token-propagation/edge-service/edge-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/access-token-propogation/edge-service/edge-service.iml" filepath="$PROJECT_DIR$/access-token-propogation/edge-service/edge-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access-token-propagation/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/access-token-propagation/eureka-service/eureka-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/access-token-propogation/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/access-token-propogation/eureka-service/eureka-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/okta-api-security-examples.iml" filepath="$PROJECT_DIR$/.idea/okta-api-security-examples.iml" />
     </modules>

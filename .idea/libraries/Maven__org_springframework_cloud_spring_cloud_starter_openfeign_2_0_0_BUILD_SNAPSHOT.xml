@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-starter-openfeign:2.0.0.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-2.0.0.BUILD-20180522.024513-2102.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-2.0.0.BUILD-20180522.144527-2106.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-2.0.0.BUILD-20180522.024513-2102-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-2.0.0.BUILD-20180522.144527-2106-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-2.0.0.BUILD-20180522.024513-2102-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-2.0.0.BUILD-20180522.144527-2106-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

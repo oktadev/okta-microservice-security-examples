@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/access-token-propogation/beer-catalog-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/access-token-propogation/edge-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/access-token-propogation/eureka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/access-token-propagation/beer-catalog-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/access-token-propagation/edge-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/access-token-propagation/eureka-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/client-credentials/creds-example-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/client-credentials/creds-example-server" charset="UTF-8" />
   </component>

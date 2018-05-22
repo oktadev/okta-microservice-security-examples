@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-zuul:2.0.0.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-netflix-zuul-2.0.0.BUILD-20180522.051105-2023.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-netflix-zuul-2.0.0.BUILD-20180522.141027-2026.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-netflix-zuul-2.0.0.BUILD-20180522.051105-2023-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-netflix-zuul-2.0.0.BUILD-20180522.141027-2026-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-netflix-zuul-2.0.0.BUILD-20180522.051105-2023-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-zuul/2.0.0.BUILD-SNAPSHOT/spring-cloud-starter-netflix-zuul-2.0.0.BUILD-20180522.141027-2026-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

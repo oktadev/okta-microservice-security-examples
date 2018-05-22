@@ -1,6 +1,6 @@
+import org.springframework.boot.web.client.RestTemplateBuilder
 import org.springframework.web.client.RestOperations
 import org.springframework.web.client.RestTemplate
-import org.springframework.boot.web.client.RestTemplateBuilder
 
 @RestController
 class Application {
@@ -9,7 +9,7 @@ class Application {
 
     @Bean
     RestOperations rest(RestTemplateBuilder builder) {
-        this.restTemplate = builder.basicAuthorization("user", "replace-me").build();
+        this.restTemplate = builder.basicAuthorization("username", "password").build()
     }
 
     @RequestMapping('/')

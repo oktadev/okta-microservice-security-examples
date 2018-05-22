@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/pom.xml" />
         <option value="$PROJECT_DIR$/access-token-propogation/eureka-service/pom.xml" />
         <option value="$PROJECT_DIR$/access-token-propogation/edge-service/pom.xml" />
+        <option value="$PROJECT_DIR$/access-token-propagation/edge-service/pom.xml" />
+        <option value="$PROJECT_DIR$/access-token-propagation/beer-catalog-service/pom.xml" />
+        <option value="$PROJECT_DIR$/access-token-propagation/eureka-service/pom.xml" />
       </list>
     </option>
   </component>

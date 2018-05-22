@@ -2,107 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db2876f0-bfa2-4aa4-af9b-cd0a1ce09c82" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/client-credentials/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_0_BUILD_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_0_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/java/com/example/beercatalogservice/BeerCatalogServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/java/com/example/beercatalogservice/HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/java/com/example/beercatalogservice/ResourceServerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/java/com/example/beercatalogservice/SecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/resources/application-cloud.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/resources/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/resources/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/test/java/com/example/beercatalogservice/BeerCatalogServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/.angular-cli.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/e2e/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/e2e/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/beer-list/beer-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/beer-list/beer-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/beer-list/beer-list.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/beer-list/beer-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/shared/beer/beer.service.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/shared/beer/beer.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/shared/giphy/giphy.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/shared/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/app/shared/okta/okta.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/assets/favicons/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/ngsw-config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/src/typings.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/client/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/deploy.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/src/main/java/com/example/edgeservice/EdgeServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/src/main/java/com/example/edgeservice/ResourceServerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/src/main/java/com/example/edgeservice/UserFeignClientInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/src/main/resources/application-cloud.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/src/main/resources/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/edge-service/src/test/java/com/example/edgeservice/EdgeServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/src/main/java/com/example/eurekaservice/EurekaServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/eureka-service/src/test/java/com/example/eurekaservice/EurekaServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/okta.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/access-token-propogation/run.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-authentication/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-authentication/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id-token-propogation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-authentication/gateway/gateway.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/basic-authentication/gateway/gateway.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client-credentials/creds-example-client/src/main/java/com/example/credsexampleclient/ClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-credentials/creds-example-client/src/main/java/com/example/credsexampleclient/ClientApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/client-credentials/creds-example-server/target/" />
     <ignored path="$PROJECT_DIR$/client-credentials/creds-example-client/target/" />
     <ignored path="$PROJECT_DIR$/access-token-propogation/beer-catalog-service/target/" />
     <ignored path="$PROJECT_DIR$/access-token-propogation/edge-service/target/" />
     <ignored path="$PROJECT_DIR$/access-token-propogation/eureka-service/target/" />
+    <ignored path="$PROJECT_DIR$/access-token-propagation/eureka-service/target/" />
+    <ignored path="$PROJECT_DIR$/access-token-propagation/edge-service/target/" />
+    <ignored path="$PROJECT_DIR$/access-token-propagation/beer-catalog-service/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,11 +42,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="gateway.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic-authentication/gateway/gateway.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+            <state relative-caret-position="165">
+              <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,7 +59,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>8hHD_uJVwh9wt8Ca_uhNpctZGXHv2N1apTR2v4X0</find>
+      <find>\t</find>
+      <find />
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -149,8 +87,6 @@
       <list>
         <option value="$PROJECT_DIR$/basic-authentication/microservice/application.properties" />
         <option value="$PROJECT_DIR$/basic-authentication/microservice/app.groovy" />
-        <option value="$PROJECT_DIR$/basic-authentication/gateway/gateway.groovy" />
-        <option value="$PROJECT_DIR$/client-credentials/creds-example-client/src/main/java/com/example/credsexampleclient/ClientApplication.java" />
         <option value="$PROJECT_DIR$/client-credentials/creds-example-client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/client-credentials/creds-example-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/access-token-propogation/edge-service/src/main/resources/application.properties" />
@@ -168,6 +104,8 @@
         <option value="$PROJECT_DIR$/basic-authentication/README.md" />
         <option value="$PROJECT_DIR$/client-credentials/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/client-credentials/creds-example-client/src/main/java/com/example/credsexampleclient/ClientApplication.java" />
+        <option value="$PROJECT_DIR$/basic-authentication/gateway/gateway.groovy" />
       </list>
     </option>
   </component>
@@ -205,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,6 +154,46 @@
               <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
               <item name="access-token-propagation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="access-token-propagation" type="462c0819:PsiDirectoryNode" />
+              <item name="edge-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="access-token-propagation" type="462c0819:PsiDirectoryNode" />
+              <item name="edge-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="access-token-propagation" type="462c0819:PsiDirectoryNode" />
+              <item name="edge-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="access-token-propagation" type="462c0819:PsiDirectoryNode" />
+              <item name="edge-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="access-token-propagation" type="462c0819:PsiDirectoryNode" />
+              <item name="edge-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="edgeservice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
@@ -240,12 +217,53 @@
               <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
               <item name="client-credentials" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="client-credentials" type="462c0819:PsiDirectoryNode" />
+              <item name="creds-example-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="client-credentials" type="462c0819:PsiDirectoryNode" />
+              <item name="creds-example-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="client-credentials" type="462c0819:PsiDirectoryNode" />
+              <item name="creds-example-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="client-credentials" type="462c0819:PsiDirectoryNode" />
+              <item name="creds-example-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="okta-microservice-security-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="okta-microservice-security-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="client-credentials" type="462c0819:PsiDirectoryNode" />
+              <item name="creds-example-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="credsexampleclient" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,12 +404,28 @@
       <updated>1526961838222</updated>
       <workItem from="1526961845894" duration="3726000" />
       <workItem from="1526966472691" duration="1381000" />
-      <workItem from="1526968137087" duration="441000" />
+      <workItem from="1526968137087" duration="1608000" />
+      <workItem from="1527005489379" duration="762000" />
     </task>
+    <task id="LOCAL-00001" summary="Polishing">
+      <created>1526968607571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526968607571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add links">
+      <created>1526968742855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526968742855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5548000" />
+    <option name="totallyTimeSpent" value="7477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="493" y="23" width="1262" height="1129" extended-state="0" />
@@ -399,7 +433,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.19672132" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.19672132" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -413,11 +447,11 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32903865" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32903865" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32903865" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2581967" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26229507" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -438,7 +472,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Polishing" />
+    <MESSAGE value="Add links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add links" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -491,20 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client-credentials/creds-example-client/src/main/java/com/example/credsexampleclient/ClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic-authentication/gateway/gateway.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/access-token-propogation/edge-service/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/access-token-propogation/run.sh" />
     <entry file="file://$PROJECT_DIR$/client-credentials/creds-example-client/pom.xml">
@@ -529,12 +561,6 @@
     <entry file="file://$PROJECT_DIR$/access-token-propogation/okta.env" />
     <entry file="file://$PROJECT_DIR$/access-token-propogation/client/src/app/shared/okta/okta.service.ts" />
     <entry file="file://$PROJECT_DIR$/access-token-propogation/beer-catalog-service/src/main/resources/templates/home.html" />
-    <entry file="file://$PROJECT_DIR$/access-token-propagation/run.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/access-token-propagation/okta.env">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic-authentication/microservice/app.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -568,8 +594,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+        <state relative-caret-position="285">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access-token-propagation/edge-service/src/main/java/com/example/edgeservice/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access-token-propagation/edge-service/src/main/java/com/example/edgeservice/EdgeServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access-token-propagation/edge-service/src/main/java/com/example/edgeservice/UserFeignClientInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-credentials/creds-example-client/src/main/java/com/example/credsexampleclient/ClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#1053#1054#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1214#1215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-authentication/gateway/gateway.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
