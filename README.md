@@ -1,6 +1,6 @@
 # Microservice API Security Examples
 
-Demos from Oktane18: API and Microservices Best Practices
+Demos from [Oktane18](https://www.okta.com/oktane18/): API and Microservices Best Practices with [Keith Casey](https://twitter.com/caseysoftware) and [Matt Raible](https://twitter.com/mraible).
 
 If you believe the hype, microservices are faster to build and easier to manage than every solution out there. They also solve all the problems you didn’t realize you had and make a fantastic cup of coffee. It doesn’t matter what the question is, the answer is microservices. Unfortunately, reality is a little more complex and changing from tried and true architectures is stressful at best and catastrophic at worst.
 
