@@ -1,4 +1,4 @@
-# Microservice API Security Examples
+# API and Microservices Best Practices Examples
 
 Demos from [Oktane18](https://www.okta.com/oktane18/): API and Microservices Best Practices with [Keith Casey](https://twitter.com/caseysoftware) and [Matt Raible](https://twitter.com/mraible).
 
